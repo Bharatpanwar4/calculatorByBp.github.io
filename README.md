@@ -1,4 +1,4 @@
 # calculatorByBp.github.io
 
-#technology used
+# technology used
 html , css , javaScript
